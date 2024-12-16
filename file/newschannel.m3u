@@ -13,3 +13,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734371429/ei/B
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/2560px-My_TV_Logo.svg.png" group-title="News", MyTV
 https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="News", ATN News
+https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS54Vyoj1pQ6F6g-jAdSA31xL3-b8ozknbG-KS87ePnZ44euHv7TT4hgw&s=10" group-title="News", Channel Europe
+https://app.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8

@@ -35,6 +35,7 @@ https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDR8bxBT7A3jUhLsLl-K_HdY1oloAD_kiIK9ghsdugDaIOS0D7tsw4QIo&s=10" group-title="News", Desh TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734389301/ei/1VlgZ76NELCI6dsPru7a6Ao/ip/86.107.43.88/id/J6WVbsoyQSI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUA-eoersr4Iyks__12jbootwv8HsPwaaD34aKzETrgaBI1jbXW2lw0YU23o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932,51335594,51347747,51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,playlist_duration,manifest_duration,maudio,spc,vprv,go,rqh,itag,playlist_type/sig/AJfQdSswRAIgJP2098g1AwpPNpQZQy_aw_gcBhreZbBltDvkctnTb5ICIEwhAcTr3k6mRPI5cJlqMNpHwL2tg0Kt2P_Wxp-55iHq/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU" group-title="News", Zee24 Ghanta
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU" group-title="News", Zee24 Ghanta 
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfbaZZZ7rdDl1dY8uh97E8kcRiyfzmJNHRtErbVKPkYk2O2imNwT9DyI&s=10" group-title="Grope Name", Star Jalsha https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfbaZZZ7rdDl1dY8uh97E8kcRiyfzmJNHRtErbVKPkYk2O2imNwT9DyI&s=10" group-title="News", Star Jalsha 
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8

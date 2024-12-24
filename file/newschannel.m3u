@@ -67,3 +67,7 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sAygLG0.jpg" group-title="MUSIC", E 24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDeeugW5hvWY_a45IY1YCzJ7wwrjHfRKYHE7ZrkPsjAaSxTgQZ4KMK47a&s=10" group-title="MUSIC", 9x Music 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/315c870e-74e9-47c1-b246-49dfc5ea1451/3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbhT78K2-cP2yVu4BkSqEznbn34z0h4Y0_VyRjvhgsadVqVwtAWJDY00z8&s=10" group-title="MUSIC", Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8

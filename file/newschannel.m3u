@@ -45,7 +45,13 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.chsuk.tv/img/cateringcircle.png" group-title="BANGLADESH", Channel S London
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://magicbanglatv.com/images/placeholder-bg.png" group-title="BANGLADESH", Magic Bangla Tv
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" group-title="KOLKATA", Bangla Plues
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU" group-title="News", Zee24 Ghanta 
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/03/a7a105a5aea78d7f063886a48d22045f1704284190505616_original.jpeg" group-title="KOLKATA NEWS", ABP News live 
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfbaZZZ7rdDl1dY8uh97E8kcRiyfzmJNHRtErbVKPkYk2O2imNwT9DyI&s=10" group-title="News", Star Jalsha 
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8

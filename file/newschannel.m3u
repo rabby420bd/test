@@ -49,6 +49,8 @@ https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" group-title="KOLKATA", Bangla Plues
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_dkuhURvTgI96Tf-9hCKJKmE7T6YAmewdg&usqp=CAU" group-title="KOLKATA NEWS", Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU" group-title="News", Zee24 Ghanta 
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/03/a7a105a5aea78d7f063886a48d22045f1704284190505616_original.jpeg" group-title="KOLKATA NEWS", ABP News live 
